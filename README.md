@@ -3,7 +3,7 @@
 ## Description:
 This project focuses on developing a robust Arabic character recognition system using various machine learning algorithms. The dataset consists of flattened pixel values extracted from handwritten Arabic characters, along with corresponding labels indicating the characters.
 
-##Data Exploration and Preparation:
+## Data Exploration and Preparation:
 
 Identified the number of unique classes and examined class distribution.
 

@@ -42,11 +42,11 @@ Trained each model and visualized training/validation error and accuracy curves.
 
 Saved the best-performing model and utilized it for predictions on new, unlabeled data.
 
+Evaluated the best model using confusion matrix and average F-1 scores on the testing dataset.
+
 <br>
 
 Comparison and Conclusion:
-
-Evaluated the best model using confusion matrix and average F-1 scores on the testing dataset.
 
 Compared the performance of SVM, KNN, and Neural Network models.
 
